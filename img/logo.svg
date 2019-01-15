@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon fill="#FF0000" id="svg_3" points="56.5,105.5 56.5,105.5 56.5,105.5 56.5,105.5 56.5,105.5 56.5,105.5 " stroke="#000000" stroke-width="5"/>
+  <polygon fill="#FF0000" id="svg_4"/>
+  <g id="svg_14">
+   <ellipse cx="166.500003" cy="123.5" fill="#000000" id="svg_11" rx="147.000003" ry="55" stroke="#113d89" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+   <text fill="#cccccc" font-family="serif" font-size="39" id="svg_1" opacity="0.75" stroke="#113d89" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(6.48638 0 0 3.34615 -385.876 -173.442)" x="71.44629" xml:space="preserve" y="95.69541">J</text>
+   <text fill="#000000" font-family="serif" font-size="24" id="svg_2" stroke="#113d89" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(9.11765 0 0 4.93552 -440.89 -659.2)" x="46.338714" xml:space="preserve" y="163.983838"/>
+   <text fill="#8dbfe0" font-family="serif" font-size="24" id="svg_5" stroke="#113d89" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(4.44465 0 0 4.22965 -206.36 -102.1)" x="76.130315" xml:space="preserve" y="62.329321">E</text>
+   <text fill="#235aba" font-family="serif" font-size="84" id="svg_9" stroke="#113d89" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1.24731 0 -47.6075)" x="195.5" xml:space="preserve" y="169.689515">B</text>
+   <text fill="#4873b5" font-family="serif" font-size="76" id="svg_10" stroke="#113d89" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(1.19076 0 0 1.21429 -65.4843 -42.75)" x="268.724026" xml:space="preserve" y="167.029413">E</text>
+   <ellipse cx="168.000004" cy="121.999999" fill="#000000" id="svg_8" opacity="0.5" rx="104.499996" ry="82.500002" stroke="#113d89" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0"/>
+  </g>
+ </g>
+</svg>
